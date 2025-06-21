@@ -1,7 +1,8 @@
 ```python
-class AboutMe:
+class Myself:
     def __init__(self):
-        pass
+        self.name = 'Junwei-Li'
+        self.title = ['Software Engineer', 'Dancer', 'Beat-Maker', Capoeiristas']
 
 
-me = AboutMe()
+me = Myself()
