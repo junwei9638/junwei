@@ -4,5 +4,4 @@ class Myself:
         self.name = 'Junwei-Li'
         self.title = ['Software Engineer', 'Dancer', 'Beat-Maker', 'Capoeiristas']
 
-
 me = Myself()
